@@ -1,4 +1,4 @@
-## Oii eu sou o Matheus Freitas, estudante de conteúdo de programação e tecnologia! 👋
+## Olá eu sou o Matheus Freitas, estudante de conteúdo de programação e tecnologia! 👋
 
 <div align="center">
   <a href="https://github.com/matheusfreitas0">
